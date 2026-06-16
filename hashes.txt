@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Embrujo gitano
+
+This log tracks the cryptographic history and versioning for the song **Embrujo gitano** (embrujo-gitano).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T15:16:23.056042 | `v1` | `e7d56c966b9b0615cd069c60f0b903872c1e2f626c7d3041b733cf4f005db6dc` | `a0aae815bc90830c376f68776a20ad5aae95314bddc7ba1937628accac4eb671` | `2026-06-16_embrujo-gitano-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

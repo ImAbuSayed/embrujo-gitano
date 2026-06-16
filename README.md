@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/embrujo-gitano/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Embrujo gitano](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/embrujo-gitano/) |
+| **Get License** | [Music Rights & Licensing for Embrujo gitano](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/embrujo-gitano/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e7d56c966b9b0615cd069c60f0b903872c1e2f626c7d3041b733cf4f005db6dc` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
