@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/embrujo-gitano/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Embrujo gitano](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/embrujo-gitano/) |
+| **Get License** | [Get a Licensing Quote for Embrujo gitano](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/embrujo-gitano/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos negros me lanzan el conjuro
+> Bailando lento, rompiendo lo seguro
+> Solo dime que esta noche te quedas
+> Quiero enredarme, mi amor, en tus sedas
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
